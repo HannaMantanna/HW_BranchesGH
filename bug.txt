@@ -1,9 +1,9 @@
-id
-Priority
-Summary
-Description
-Actual result
-Expected result
-Steps to reproduce
-Severity
-Priority
+1)id
+2)Priority
+3)Summary
+4)Description
+5)Actual result
+6)Expected result
+7)Steps to reproduce
+8)Severity
+0)Priority
